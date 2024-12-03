@@ -1,0 +1,13 @@
+Project Structure:
+/mining-app
+  ├── index.html
+  ├── styles/
+  │   └── main.css
+  ├── scripts/
+  │   └── app.js
+  └── assets/
+      └── wheel.png
+
+index.html:
+
+
